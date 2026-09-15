@@ -1,0 +1,107 @@
+/*в правилі для body нічого змінювати НЕ потрібно*/
+body{
+	margin:20px auto;
+	padding:0;
+	width: 70%;
+	min-height: 500px;
+	box-shadow: 2px 2px 5px grey;
+	font-family: Arial;
+	
+}
+
+/*в цьому правилі нічого не потрібно змінювати*/
+.slogan{
+	font-size: 20px;
+	text-align: center;
+}
+
+/*в цьому правилі нічого не потрібно змінювати*/
+.footer{
+	background:#0e2b3c;
+	height: 25px;
+	color:white;
+	text-align: center;
+	font-size: 0.5em;
+}
+
+
+/*тут бажано додати одну властивість,  
+яка змінює режим розрахунку загальних розмірів*/
+.header{
+	width: 95%%;
+	height: 50px;
+	background: #a6dbfb;
+	padding: 5px;
+	color:#0e2b3c;
+	
+}
+
+/*зображенням потрібно додати по одній властивості*/
+.oreo-logo{
+	height: 40px;
+	float: left;
+
+	
+}
+
+.oreo-cookie{
+	height: 40px;
+	float: right;
+}
+
+
+.main{
+	min-height: 425px;
+	background: #deebf4;
+
+	
+}
+td:nth-child(1n){
+	background: darksalmon;
+
+}
+td:last-child{
+	background: lightgreen;
+}
+
+td:nth-child(3n){
+	background: darkorange;
+	border: 1px solid black;
+  	border-collapse: collapse;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th{
+	border-collapse: collapse;
+	border-bottom: 1px solid black;
+	border-top:  1px solid black;
+}
+tr:last-child{
+	border-collapse: collapse;
+	border-bottom: 1px solid black;
+}
+th,td{
+	height: 30px;
+	width: 100px;
+	text-align: center;
+}
+.table-2{
+	margin-top: 20px;
+}
+.table{
+	display: table;
+}
+.cell{
+	display: table-cell;
+	text-align: center;
+	border-bottom: 2px solid orange;
+	width: 120px;
+}
+.row{
+	display: table-row;
+}
+h4{
+	margin-bottom: 0px;
+}

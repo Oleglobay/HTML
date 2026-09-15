@@ -1,0 +1,56 @@
+body{
+	background-image: url("klitynka.gif");
+}
+.Lina-h{
+	align-self: center;
+	width: 20%;
+	height: 1px;
+	background-color: green;
+}
+.Main{
+	color: navy;
+	font-family: Book-Antiqua;
+}
+.Lina{
+	color: green;
+	font-family: Arial;
+}
+
+.name{
+	text-align: center;
+}
+.Citata{
+	font-style: italic;
+	text-align: right;
+}
+.Vasyl{
+	color:red ;
+	font-family: Courier New;
+}
+.Vasyl-h{
+	align-self: center;
+	width: 20%;
+	height: 1px;
+	background-color: red;
+
+}
+.Dmytro-h{
+	align-self: center;
+	width: 20%;
+	height: 1px;
+	background-color: #336666;
+
+}
+.Dmytro{
+	color: #336666;
+	font-family: Tahoma;
+
+}
+.end{
+	background-color: navy;
+	width: 20%;
+	height: 1px;
+}
+.textend{
+	color: navy;
+}

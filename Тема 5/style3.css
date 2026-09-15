@@ -1,0 +1,14 @@
+body{
+	background-color: darkblue;
+}
+.Border{
+	color: white;
+}
+.Capitals{
+	color: yellow;
+}
+hr{
+	width: 80%;
+	height: 1px;
+	background-color: silver;
+}

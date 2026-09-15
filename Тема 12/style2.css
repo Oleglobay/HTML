@@ -1,0 +1,15 @@
+p>i{
+	color: red;
+}
+.par{
+	color: blue;
+}
+.par .italic{
+	color: darkgoldenrod;
+}
+div,p{
+	background-color: black;
+}
+p{
+	color: white;
+}

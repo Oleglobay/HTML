@@ -1,0 +1,31 @@
+	
+			body{
+				font-family: Arial;
+			}
+			h1{
+				color: red;
+				text-align: center;
+				text-transform: uppercase;
+				letter-spacing: 10px;
+				text-decoration-style: dotted;
+				text-shadow: 4px 0px 0px grey;
+			}
+			.epigraph{
+				color: green;
+				font-style: italic;
+				text-align: right;
+			}
+			.text{
+				text-indent: 25px;
+				text-align: justify;
+			}
+			blockquote{
+				font-style: italic;
+				font-weight: bold;
+				font-size: 14px;
+			}
+			.copyright{
+				color: red;
+				text-align: right;
+			}
+		

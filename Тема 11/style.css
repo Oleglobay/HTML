@@ -1,0 +1,19 @@
+.red{
+	background-color: orangered;
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+}
+.green{
+	background-color: limegreen	;
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+	
+}
+.blue{
+	background-color: darkcyan;
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+}

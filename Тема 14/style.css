@@ -1,0 +1,32 @@
+.table{
+	display: table;
+}
+.row{
+	display: table-row;
+	background-color:white ;
+}
+.cell{
+	display: table-cell;
+	height: 40px;
+	width: 100px;
+	text-align: center;
+	vertical-align: middle;
+}
+img{
+	height: 25px;
+	width: 25px;
+}
+.table , .row, .cell{
+	border: 1px solid white;
+}
+.row:nth-child(2n){
+	background-color: lightcoral;
+}
+.var{
+	display: table-row;
+}
+#top{
+	border-radius: 20px 10px 0px 0px;
+	background-color: green;
+	border:1px solid white;
+}

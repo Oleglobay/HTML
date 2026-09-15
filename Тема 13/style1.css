@@ -1,0 +1,26 @@
+table{
+	border: 2px solid lightgrey;
+	border-collapse: collapse;
+}
+th{
+	background-color: lightcoral;
+}
+tr{
+
+	text-align: center;
+}
+td, th{
+	height: 40px;
+	width: 90px;
+	border-right:  2px solid lightgrey;
+}
+
+.test td:nth-child(2n){
+	background-color: lightgreen;
+}
+.test{
+	background-color: palegoldenrod;
+}
+th:first-child{
+	background-color: slategrey;
+}

@@ -1,0 +1,6 @@
+body{
+	text-align: center;
+	background: url("images/img.jpg") no-repeat 260px 20px,
+				darkcyan url("images/IK.png") no-repeat 830px 20px;
+
+}

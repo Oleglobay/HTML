@@ -1,0 +1,25 @@
+
+td:nth-child(2n){
+	background: darkcyan;
+	color: white;
+	border: 1px solid darkcyan;
+  border-collapse: collapse;
+}
+table, th, td {
+  border: 1px solid white;
+  border-collapse: collapse;
+}
+th{
+	border-collapse: collapse;
+	border-bottom: 2px solid darkcyan;
+	border-top:  2px solid darkcyan;
+}
+tr:last-child{
+	border-collapse: collapse;
+	border-bottom: 2px solid darkcyan;
+}
+th,td{
+	height: 30px;
+	width: 100px;
+	text-align: center;
+}

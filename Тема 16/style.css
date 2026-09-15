@@ -1,0 +1,40 @@
+#square{
+	height: 100px;
+	width: 100px;
+}
+.square1{
+	background-color: coral;
+	position: relative;
+	left: 25px;
+	top: 25px;
+}
+.square2{
+	background-color: lightblue;
+	position: absolute;
+	left: 50px;
+	top: 50px;
+}
+.square3{
+	background-color: lightgreen;
+	position: absolute;
+	left: 50px;
+	top: 50px;
+}
+.square4{
+	background-color: coral;
+	position: relative;
+	left: 25px;
+	top: 200px;
+}
+.square5{
+	background-color: lightgreen;
+	position: relative;
+	left: 100px;
+	top: 100px;
+}
+.square6{
+	background-color: lightblue;
+	position: relative						;
+	left: 75px;
+	top: 150px;
+}

@@ -1,0 +1,214 @@
+html,body{
+	width: 100%;
+	height: 100%;
+	margin: 0;
+}
+
+.container{
+	max-width: 680px;
+	padding: 1px;
+	padding-left:15px;
+	padding-right:15px;
+	margin: 0 auto;
+	position: relative;
+}
+.menu{
+	display: inline-block;
+	margin: 0;
+	margin-left: 250px;
+	margin-top: 30px;
+
+}
+.menu, .menu ul{
+	list-style: none;
+	padding: 0;
+}
+.menu a{
+	text-decoration: none;
+	color: grey;
+	display: block;
+	padding: 5px 10px;
+
+}
+.menu>li{
+	position: relative;
+	float: left;
+}
+.menu ul{
+	position: absolute;
+	top: 100%;
+	left:0;
+	z-index: 10;
+	display: none;
+}
+a, p{
+	font-family: Arial;
+	text-align: center;
+	color:grey;
+}
+h2{
+	font-family: Arial;
+	text-align: center;
+	margin-top: 100px;
+	color:grey;
+}
+
+img{
+	margin-right: 10px;
+}
+#bI{
+	background-color: #eb5481;
+	border: 0px;
+	height: 50px;
+	width: 250px;
+	color: white;
+	border-radius: 25px;
+	font-size: 18px;
+	position: absolute;
+	left: 50%;
+	transform: translateX(-50%);
+	margin-top: 25px;
+}
+.jumbo{
+	background-image: url(billboard.jpg);
+	height: 400px;
+	background-size: cover;
+
+}
+header{
+	height: 100px;
+}
+.intro{
+	height: 200px;
+	margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+}
+.services{
+	margin-top: 100px;
+	margin-bottom:	50px;
+	position: absolute;
+}
+.developers{
+	margin-top: 400px;
+	margin-left: 45px;
+	
+}
+
+.table{
+	display: table;
+}
+.var{
+	display: table-row;
+}
+.row{
+	display: table-row;
+	
+}
+.cell{
+	display: table-cell;
+	height: 50px;
+	width: 160px;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 50px;
+	padding-top: 10px;
+}
+#bII{
+	border: 0px;
+	height: 15px;
+	color: black;
+	font-size: 13px;
+	position: relative;
+	background-color: white;
+}
+
+#midle2{
+	padding-top: 0;
+	height: 20;
+}
+p{
+	height: 100px;
+	width: 200px;
+
+}
+.client{
+	height: 300px;
+
+}
+.shit{
+	display: inline-block;
+	position: relative;
+	
+	top: 30%;
+}
+.shit > img{
+	height: 76px;
+	margin-right: 25.7px;
+	
+}
+.field1 > img, .field2 > img{
+	float: left;
+	margin-right: 30px;
+}
+.field > a, h4{
+	text-align: left;
+	overflow: auto;
+}
+.field1{
+	height: 200px;
+}
+.field2{
+	height: 200px;
+}
+.outro{
+	height: 300px;
+	margin-top: 150px;
+}
+.outrotext{
+	left: 34%;
+	position: relative;
+}
+.outrotext > p{
+	margin: 0;
+	width: 450px;
+	right: 120px;
+	position: relative;
+}
+#bIII{
+	background-color: #eb5481;
+	border: 0px;
+	height: 50px;
+	width: 250px;
+	color: white;
+	word-spacing: 6px;
+	font-size: 18px;
+	position: absolute;
+	left: 218px;
+}
+h4{
+	font-family: Arial;
+	text-align: center;
+	margin-top: 10px;
+	color:grey;
+}
+footer{
+	height: 300px;
+	background-color: #38404a;
+	position: relative;
+	margin-top: 1900px;
+	position: relative;
+}
+.footer > img{
+	position: absolute;
+	left: 50%;
+	transform: translateX(-50%);
+	margin-top: 50px;
+}
+#menu2{
+	margin-left: 0;
+	position: absolute;
+	left: 50%;
+	transform: translateX(-50%);
+	margin-top: 100px;
+}

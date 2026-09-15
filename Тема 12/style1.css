@@ -1,0 +1,36 @@
+.Cube1{
+	width: 500px;
+	height: 500px;
+	background-color:blue;
+	border-style: solid;
+	border-color: black;
+	border-width: 10px;
+	
+}
+.Cube2{
+	width: 400px;
+	height: 400px;
+	background-color:green;
+	border-style: inherit;
+	border-color: inherit;
+	border-width: inherit;
+	
+}
+.Cube3{
+	width: 300px;
+	height: 300px;
+	background-color:yellow;
+	border-style: inherit;
+	border-color: inherit;
+	border-width: inherit;
+	
+}
+.Cube4{
+	width: 200px;
+	height: 200px;
+	background-color:red;
+	border-style: inherit;
+	border-color: inherit;
+	border-width: inherit;
+	
+}

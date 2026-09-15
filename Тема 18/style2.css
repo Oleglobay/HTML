@@ -1,0 +1,29 @@
+div{
+	height: 70px;
+	width: 200px;
+}
+a{
+	font-family: fantasy;
+	font-size: 30px;
+	color: white;
+	height: 200px;
+}
+.k, .t{
+	border-radius:0px 20px 0px 20px ;
+	text-align: center;
+	vertical-align:middle;
+	display: table-cell;
+}
+.k{
+	background-color: #3F5E5A;
+	right: 200px;
+	top: 0px;
+	position: relative;
+	transition: top 0.5s cubic-bezier(1,-0.15,.65,.82) ;
+}
+.t{
+	background-color: #EF233C;	
+}
+.k:hover{
+	top: 80px;
+}

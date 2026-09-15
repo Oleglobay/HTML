@@ -1,0 +1,26 @@
+.k{
+	box-sizing: border-box;
+	width: 400px;
+	height: 400px;
+	background: url("morio.jpg");
+	background-size: cover;
+	position: relative;
+}
+.t{
+	width: 100%;
+	height: 400px;
+	transition: background 1s;
+}
+.t a{
+	position: absolute;
+	left: -160%;
+	top: 43%;
+	transition: 1s;
+
+}
+.k:hover .t{
+	background: white;
+}
+.k:hover a{
+	left: 25%;
+}

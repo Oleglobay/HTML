@@ -1,0 +1,17 @@
+body{
+	background-color:silver ;
+
+}
+hr{
+	background-color: white;
+	width: 200px;
+	height: 3px;
+}
+.List{
+	color: green;
+	list-style: upper-roman;
+}
+
+.List2{
+	color: navy;
+}

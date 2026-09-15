@@ -1,0 +1,70 @@
+body{
+	background-color: silver;
+	margin: 0px;
+}
+.div1{
+	height: 50px;
+	width: 120%;
+	background-color: yellow;
+
+}
+.cars{
+	height: 160px;
+	width: 240px;
+	float: left;
+	margin: 10px;
+}
+.n-v{
+	float:right ;
+	margin: 10px;
+	vertical-align: bottom;
+}
+p{
+	font-family: Arial;
+	font-size: 17px;
+	margin: 10px;
+}
+.div2{
+	height: 700px;
+	width: 500px;
+	box-shadow:0 6px 10px black,0 6px 10px white;
+	margin-left:120px;
+	margin-top:0px ;
+	
+}
+.picture{
+	width: 100px;
+	height: 40px;
+	vertical-align: middle;
+
+}
+.div3{
+	height: 35px;
+	text-align: center;
+	background-color: green;
+
+}
+h1{
+	margin: 0px;
+}
+.p1{
+	margin-left: 90px;
+	float: left;
+}
+.p2{
+	margin: 0px;
+}
+.p3{  
+	font-size: 14px;
+	text-align: right;
+	float: right;
+	text-align: center;
+	margin: 0px;
+	margin-right:80px;
+}
+.NV{
+	margin-left: 55px;
+}
+.clearfix{
+	clear:both;
+}

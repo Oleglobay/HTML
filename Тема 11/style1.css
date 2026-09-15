@@ -1,0 +1,29 @@
+body{
+	margin: 0px;
+}
+.blue{
+	background-color: navy;
+	height: 50px;
+	width: 100%;}
+	
+
+.darky{
+	background-color: darkgoldenrod;
+	width: 50%;
+	height:700px;
+	float: left;
+	
+}
+.yellow{
+	background-color: yellow;
+	display:inline-block ;
+	height:700px;
+	width: 50%;	
+	
+}
+.green{
+	background-color: green;
+	height: 50px;
+	width: 100%;
+	}
+

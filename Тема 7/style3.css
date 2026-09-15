@@ -1,0 +1,35 @@
+Body{
+	background-color: lightgoldenrodyellow;
+}
+.Win{
+	float: left;
+	height: 120px;
+	width: 120px;
+	margin: 10px;
+	border-radius: 80px;
+}
+.Spr{
+	float: left;
+	height: 120px;
+	width: 120px;
+	margin: 10px;
+	border-radius: 80px;
+}
+.Sum{
+	float: left;
+	height: 120px;
+	width: 120px;
+	margin: 10px;
+	border-radius: 80px;
+}
+.Atm{
+	float: left;
+	height: 120px;
+	width: 120px;
+	margin: 10px;
+	border-radius: 80px;
+}
+
+.clearfix{
+	clear: both;
+}

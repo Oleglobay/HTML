@@ -1,0 +1,21 @@
+body{
+	background-color: silver;
+}
+.Moon{
+	width: 80px;
+	height: 80px;
+	vertical-align:middle;
+
+}
+.Moon2{
+	float: right;
+	border: 1px solid black;
+	margin: 10px;
+}
+.Moon3{
+	float: left;
+	margin: 10px;
+}
+.clearfix{
+	clear: both;
+}

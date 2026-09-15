@@ -1,0 +1,16 @@
+			.Den{
+				color: darkcyan;
+				font-family: cursive;
+			}
+			.Mark{
+				color: darkgoldenrod;
+				font-family: monospace;
+			}
+			.Ver{
+				color: firebrick;
+				font-family: unset;
+			}
+			h1{
+				color: rebeccapurple;
+				text-align: center;
+			}	
